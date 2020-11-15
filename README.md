@@ -19,7 +19,7 @@ E1: 해당 주의 확진자 수 데이터
 E2: E1 + 인접 주들의 확진자 수 데이터
 E3: E2 + 시간 지연을 고려한 웹 데이터
 
-<img src="./image/result_table.png" />
+<img src="./image/result_table.PNG" />
 
 대부분의 경우, E2는 1-day 예측 정확도가 높았고 E3는 5-day 예측 정확도가 높았다.
 
