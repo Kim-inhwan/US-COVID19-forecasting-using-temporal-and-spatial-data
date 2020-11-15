@@ -4,7 +4,7 @@
 COVID-19의 발생은 크게 두 가지 요소에 의해 영향을 받는다.
 1) 공간적 요소
 
-<img src="./image/USA_covid_map.png" />
+<img src="./image/USA_covid_map.png" width="60%"/>
 
 COVID-19는 사람 간에 전파되기 때문에, 공간적인 요소에 영향을 받는다. 그림과 같이 미국의 특정 주의 COVID-19 확진 케이스는 인접한 주들의 COVID-19 확진 케이스에 영향을 받을 것이다.
 
